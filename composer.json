@@ -23,9 +23,6 @@
             "homepage": "http://bassistance.de"
         }
     ],
-    "require": {
-        "robloach/component-installer": "*"
-    },
     "extra": {
         "component": {
             "scripts": [
